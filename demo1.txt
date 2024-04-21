@@ -1,1 +1,4 @@
+This is a sample text file.
+Some contents here.
 master demo1.txt
+
